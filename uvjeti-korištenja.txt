@@ -101,7 +101,7 @@
           </p>
         </div>
         <div class="wrapper">
-          <h4>Online kupovina u Republici Hrvatskoj i drugim državama/h4>
+          <h4>Online kupovina u Republici Hrvatskoj i drugim državama</h4>
           <p>
             Online kupovinu Proizvoda moguće je izvršiti na području Republike Hrvatske te na područjima drugih država u koje Prodavatelj vrši dostavu kupljenih Proizvoda. Prodavatelj zadržava pravo promjene područja na koja vrši dostavu.
           </p>
